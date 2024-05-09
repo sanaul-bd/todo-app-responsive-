@@ -3,13 +3,12 @@
 
 
 Techonology:
-vite, 
-
+vite, redux
 
 
 1. install : npm create vite@latest & npm i . 
 2. install : npm install @reduxjs/toolkit & npm install react-redux
-3. 19.9 continue 
+3. 
 4. 
 5. 
 6. 
